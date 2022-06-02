@@ -5,7 +5,7 @@ React | Node.js | PHP
 [![Linkedin Badge](https://img.shields.io/badge/Guilherme%20Yamasaki-333?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-yamasaki/)](https://www.linkedin.com/in/guilherme-yamasaki/) 
 [![Gmail Badge](https://img.shields.io/badge/-guilhermeyyamasaki1@gmail.com-333?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermeyyamasaki1@gmail.com)](mailto:guilhermeyyamasaki1@gmail.com)
 
-### 👨🏻‍💻Linguaguens:</h3>
+### 👨🏻‍💻Linguagens:</h3>
 
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25"/>
@@ -27,7 +27,7 @@ React | Node.js | PHP
     <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25"/>
   </a>
-    <a href="https://reactjs.org/" target="_blank">
+    <a href="https://nodejs.org/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="react" width="25" height="25"/>
   </a>
 </p>
