@@ -2,10 +2,10 @@
 
 ### :telephone_receiver:Contact-me:</h3>
 <a href="https://www.linkedin.com/in/guilherme-yamasaki/" target="_blank" style="margin-right: 0.5rem;">
-    <img src="https://img.shields.io/badge/LinkedIn-333?style=for-the-badge&logo=LinkedIn&logoColor=red" />
+    <img src="https://img.shields.io/badge/LinkedIn-333?style=for-the-badge&logo=LinkedIn&logoColor=purple" />
 </a>
 <a href="mailto:guilhermeyyamasaki1@gmail.com" target="_blank" style="margin-right: 0.5rem;">
-    <img src="https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=purple" />
 </a>
 
 ###  :bulb:My stack:</h3>
