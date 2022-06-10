@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/Guilherme%20Yamasaki-333?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-yamasaki/)](https://www.linkedin.com/in/guilherme-yamasaki/) 
 [![Gmail Badge](https://img.shields.io/badge/-guilhermeyyamasaki1@gmail.com-333?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermeyyamasaki1@gmail.com)](mailto:guilhermeyyamasaki1@gmail.com)
 
-### 👨🏻‍💻My stack:</h3>
+###  :bulb:My stack:</h3>
 
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="Logo HTML 5"
@@ -24,7 +24,7 @@
         style="margin-right: 0.5rem;" />
 </div>
 
-### :chart_with_upwards_trend:Statistics:</h3>
+###  :chart_with_upwards_trend:Statistics:</h3>
 
 <div align="center">
   <a href="https://github.com/GuilhermeYamasaki">
