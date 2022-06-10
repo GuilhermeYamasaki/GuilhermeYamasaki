@@ -1,11 +1,11 @@
 # Guilherme Yamasaki  
 
 ### :telephone_receiver:Contact-me:</h3>
-<a href="https://www.linkedin.com/in/guilherme-yamasaki/" target="_blank" style="margin-right: 0.5rem;">
-    <img src="https://img.shields.io/badge/LinkedIn-333?style=for-the-badge&logo=LinkedIn&logoColor=purple" />
+<a href="https://www.linkedin.com/in/guilherme-yamasaki/" target="_blank" style="margin-right: 1rem;">
+    <img src="https://img.shields.io/badge/LinkedIn-333?style=for-the-badge&logo=LinkedIn&logoColor=blue" />
 </a>
-<a href="mailto:guilhermeyyamasaki1@gmail.com" target="_blank" style="margin-right: 0.5rem;">
-    <img src="https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=purple" />
+<a href="mailto:guilhermeyyamasaki1@gmail.com" target="_blank" style="margin-right: 1rem;">
+    <img src="https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=blue" />
 </a>
 
 ###  :bulb:My stack:</h3>
