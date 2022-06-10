@@ -1,6 +1,4 @@
 # Guilherme Yamasaki  
-
-React | Node.js | PHP
  
 [![Linkedin Badge](https://img.shields.io/badge/Guilherme%20Yamasaki-333?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-yamasaki/)](https://www.linkedin.com/in/guilherme-yamasaki/) 
 [![Gmail Badge](https://img.shields.io/badge/-guilhermeyyamasaki1@gmail.com-333?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermeyyamasaki1@gmail.com)](mailto:guilhermeyyamasaki1@gmail.com)
