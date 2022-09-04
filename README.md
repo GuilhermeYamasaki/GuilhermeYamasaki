@@ -12,21 +12,21 @@
 
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="Logo HTML 5"
-        style="margin-right: 0.5rem;" />
+        style="margin-right: 1rem;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="Logo CSS 3"
-        style="margin-right: 0.5rem;" />
+        style="margin-right: 1rem;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-        alt="Logo Javascript" width="40" style="margin-right: 0.5rem;" />
+        alt="Logo Javascript" width="40" style="margin-right: 1rem;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"
-        alt="Logo Node.js" style="margin-right: 0.5rem;" />
+        alt="Logo Node.js" style="margin-right: 1rem;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="Logo React"
-        style="margin-right: 0.5rem;" />
+        style="margin-right: 1rem;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="Logo PHP"
-        style="margin-right: 0.5rem;" />
+        style="margin-right: 1rem;" />
     <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="40" alt="Logo Laravel"
-        style="margin-right: 0.5rem;" />
+        style="margin-right: 1rem;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="Logo MySQL"
-        style="margin-right: 0.5rem;" />
+        style="margin-right: 1rem;" />
 </div>
 
 ###  :chart_with_upwards_trend:Statistics:</h3>
