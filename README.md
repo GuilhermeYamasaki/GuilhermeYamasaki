@@ -28,11 +28,4 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="Logo MySQL"
         style="margin-right: 1rem;" />
 </div>
-
-###  :chart_with_upwards_trend:Statistics:</h3>
-
-<div>
-  <a href="https://github.com/GuilhermeYamasaki">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeYamasaki&layout=compact&langs_count=7&theme=dracula"/>
-</div>
  
